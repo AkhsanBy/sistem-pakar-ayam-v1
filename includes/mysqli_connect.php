@@ -1,7 +1,7 @@
 <?php
-	$DB_HOSTNAME = '127.0.0.1';
-	$DB_USERNAME = 'webuser';
-	$DB_PASSWORD = 'password';
+	$DB_HOSTNAME = 'localhost';
+	$DB_USERNAME = 'root';
+	$DB_PASSWORD = '';
 	$DB_DATABASE = 'webuser_sistempakar';
 	
 	mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
